@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.TermSearch" parent="Theme.MaterialComponents.NoActionBar">
-        <item name="colorPrimary">@color/dark_primary</item>
-        <item name="colorPrimaryDark">@color/dark_primary_dark</item>
-        <item name="colorAccent">@color/accent</item>
-        <item name="android:windowBackground">@color/bg_main</item>
-    </style>
-</resources>
