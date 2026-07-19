@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_sort"
+        android:icon="@drawable/ic_sort"
+        android:title="@string/action_sort"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_night_mode"
+        android:icon="@drawable/ic_palette"
+        android:title="@string/action_night_mode"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_export"
+        android:icon="@drawable/ic_export"
+        android:title="@string/action_export"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_import"
+        android:icon="@drawable/ic_import"
+        android:title="@string/action_import"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_clear_history"
+        android:title="@string/action_clear_history"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_about"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+</menu>
