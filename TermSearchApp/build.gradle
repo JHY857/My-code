@@ -5,8 +5,8 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        // AIDE 兼容的 Gradle 插件版本
-        classpath 'com.android.tools.build:gradle:4.2.2'
+        // AndroidIDE / AIDE 兼容的 AGP 版本
+        classpath 'com.android.tools.build:gradle:7.4.2'
     }
 }
 
