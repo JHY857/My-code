@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 夜间模式覆盖颜色 -->
+    <color name="bg_main">#121212</color>
+    <color name="bg_card">#1E1E1E</color>
+    <color name="bg_search">#2A2A2A</color>
+    <color name="text_primary">#EAEAEA</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="divider">#333333</color>
+    <color name="tag_bg">#2A3A4A</color>
+    <color name="tag_text">#90CAF9</color>
+    <color name="category_bg">#3E2723</color>
+    <color name="category_text">#FFB74D</color>
+</resources>

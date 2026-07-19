@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- 背景 -->
+    <path android:fillColor="#3F51B5" android:pathData="M0,0h48v48h-48z" />
+    <!-- 圆角 -->
+    <path android:fillColor="#3F51B5" android:pathData="M0,0h48v48h-48z" />
+    <!-- 放大镜圆环 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M21,15m-7,0a7,7 0 1,1 14,0a7,7 0 1,1 -14,0"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2" />
+    <!-- 圆环内挖空 -->
+    <path android:fillColor="#3F51B5" android:pathData="M21,15m-4.5,0a4.5,4.5 0 1,1 9,0a4.5,4.5 0 1,1 -9,0" />
+    <!-- 手柄 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25.5,19.5l3,3l5.5,5.5l-3,3l-5.5,-5.5l-3,-3z" />
+</vector>
