@@ -1,0 +1,39 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <style name="AppTheme.Night" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/night_primary</item>
+        <item name="colorPrimaryDark">@color/night_primary</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/night_background</item>
+        <item name="android:textColorPrimary">@color/night_text_primary</item>
+        <item name="android:textColorSecondary">@color/night_text_secondary</item>
+    </style>
+
+    <style name="SearchBarStyle">
+        <item name="android:background">@drawable/search_bg</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+        <item name="android:backgroundTint">@android:color/transparent</item>
+    </style>
+
+    <style name="CategoryChip">
+        <item name="android:background">@drawable/chip_bg</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

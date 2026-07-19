@@ -1,0 +1,22 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+local.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OSX
+.DS_Store
+
+# AIDE
+bin/
+gen/
